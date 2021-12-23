@@ -1,0 +1,5 @@
+﻿  Server.cpp
+D:\CSED 22\7th term\networks\assignments\assignment 3\code\Server\Server.cpp(125,8): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+D:\CSED 22\7th term\networks\assignments\assignment 3\code\Server\Server.cpp(364,8): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+D:\CSED 22\7th term\networks\assignments\assignment 3\code\Server\Server.cpp(503,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Server.vcxproj -> D:\CSED 22\7th term\networks\assignments\assignment 3\code\Server\Debug\Server.exe
